@@ -1,0 +1,98 @@
+header {
+    height: 700px;
+    background: url("header_bg.jpg") no-repeat center;
+    background-color: black;
+
+
+}
+
+    .container {
+      width: 960px
+      margin: 0 auto;
+    }
+
+
+    h1.logo {
+    color: #fff;
+    font-size: 34px;
+    padding: 11px 0px 0px 380px;
+
+
+}
+
+    header h2 {
+      color: #fff;
+      font-size: 50px;
+
+      padding: 60px 0px 0px 380px;
+
+}
+
+.yellow {
+  background: #f9e42e;.
+  color: #033048;
+
+  }
+
+.button {
+  border-radius: 5px;
+  display: block;
+  width: 280px;
+  font-size: 28px;
+  text-align: center;
+      margin: 0 auto;
+      padding: 12px 0;
+
+}
+
+#benefits {
+  padding: 100px 0px 0px 500px;
+  font-size: 28px;
+
+}
+
+h4 {
+  padding: 0px 0px 0px 50px;
+  font-size: 28px;
+}
+
+
+#testimonal {
+  background: url("testimonial_bg.jpg");
+  color: #fff;
+}
+
+blockquote {
+font-size: 36px;
+text-align: center;
+
+}
+
+em {
+    font-style: italic;
+}
+
+aside {
+  background: #f9e42e;
+  padding: 30px;
+  text-align: center;
+}
+
+.blue {
+  background: #033048;
+  color: #fff;
+  font-size: 24px;
+}
+
+
+footer {
+  text-align: center;
+  background-color: black;
+  color: #fff;
+}
+
+footer .logo {
+  color: #f9e42e;
+  margin-bottom: 68px;
+  font-size: 64px
+}

@@ -1,0 +1,28 @@
+body {
+    background-color: #0066CC;
+    font-style: ;
+    font-family: "helvetica";
+    background-size: 80px: 60px;
+    text-align: left;
+    border: solid 2px blue;
+
+  }
+
+
+      input {
+              border:
+              padding: 2px;
+              font-size:10px;
+              color: green;
+            }
+
+  /* LINKS */
+
+            a:link {
+                color: red;
+            }
+
+  p {
+    float: right;
+    padding: 0 10px 10px 100px;
+  }
