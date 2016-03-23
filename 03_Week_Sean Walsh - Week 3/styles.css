@@ -1,0 +1,119 @@
+
+body {
+  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+  font-size: 26px;
+  background: #f0efef;
+
+
+}
+
+
+
+header {
+  background-color: #033048;
+  color: white;
+  height: 120px;
+  padding-bottom: 100px;
+  margin-top: -120px;
+
+  display: block;
+  list-style-type: none;
+
+
+}
+
+
+nav a {
+
+
+  color: #f9e42e;
+  font-size: 25px;
+
+  margin-left: -400px;
+  margin-bottom: 100px;
+  margin-top: 0;
+
+  text-decoration: none;
+
+}
+
+.topofpage nav ul li {
+list-style-type: none;
+float: right;
+padding: 70px 30px 60px 10px;
+
+margin-top: -155px;
+margin-right: 25px;
+
+}
+
+
+
+header h1 {
+  margin-left: 465px;
+  padding-top: 100px;
+}
+
+
+/*The div class here is "articlecontainer", but I haven't written it in*/
+div.articlecontainer {
+  float: left;
+  margin-left:400px;
+  width: 700px;
+
+
+}
+
+
+div.sidebar {
+  float: right;
+  margin-right: 300px;
+  width: 300px;
+  text-decoration: none;
+  display: block;
+
+
+}
+
+
+
+
+ul li {
+  list-style-type: none;
+}
+
+.dontunderline {
+  text-decoration: none;
+}
+
+
+aside {
+  background-color: #f9e42e;
+  margin-top: 50px
+
+  text-align: center;
+  padding: 30px;
+  display: block;
+  list-style-type: none;
+}
+
+.buttonblue {
+  border-radius: 5px;
+  display: block;
+  color: white;
+  background-color: #033048;
+  width: 280px;
+  font-size: 28px;
+  text-align: center;
+      margin: 0 auto;
+      padding: 12px 0;
+
+}
+
+footer {
+  background: black;
+  padding: 2px 0px;
+  color: #f9e42e;
+  text-align: center;
+  font-size: 40px;
+}
