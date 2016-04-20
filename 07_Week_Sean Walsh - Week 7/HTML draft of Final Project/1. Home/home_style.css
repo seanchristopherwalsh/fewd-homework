@@ -1,0 +1,89 @@
+header {
+    background-color: #CC660A;
+    height: 120px;
+    margin-top: -20px;
+    display: block;
+    text-decoration: none;
+  }
+
+.logo {
+  float: left;
+}
+
+  nav ul li {
+    list-style-type: none;
+    display: inline-block;
+    float: right;
+    font-size: 30px;
+    background-size: cover;
+    text-decoration: none;
+    padding: 80px;
+    margin-top: -40px;
+  }
+
+  ul li a {
+    text-decoration: none;
+    color: #FFC107;
+  }
+
+  body {
+    background-image: url(whitebone.jpg);
+  }
+
+  #readmoreone {
+    color: red;
+  }
+
+  #readmoretwo {
+    color: red;
+  }
+
+  footer {
+      background-color: #CC660A;
+      height: 120px;
+      margin-top: -20px;
+      display: block;
+      text-decoration: none;
+    }
+
+ul li {
+    float: right;
+    text-decoration: none;
+    list-style-type: none;
+    color: #FFF;
+
+  }
+
+p.analyticsgif{
+  float:left;
+}
+
+p.useragentimg{
+  float: right;
+}
+
+#edgeservers {
+
+  float: right;
+  display: block;
+  padding-right: 450px;
+
+}
+
+.newsletter {
+    float: right;
+  }
+
+
+footer .hotjarimage {
+    float: left;
+    margin: 20px;
+
+  }
+
+
+  /**{
+    background-color: black;
+    color: green;
+    outline: 1px solid red;
+  }*/
