@@ -1,0 +1,165 @@
+body {
+  width: 100%;
+  font-size: 20px;
+}
+
+header {
+    background-color: #CC660A;
+    height: 120px;
+    margin-top: -20px;
+    display: block;
+    text-decoration: none;
+  }
+
+.logo {
+  float: left;
+}
+
+  nav ul li {
+    list-style-type: none;
+    display: inline-block;
+    float: right;
+    font-size: 30px;
+    background-size: cover;
+    text-decoration: none;
+    padding: 28px;
+  }
+
+  ul li a {
+    text-decoration: none;
+    color: #FFC107;
+  }
+
+  a:hover {
+    color: blue;
+}
+
+
+  body {
+    background-image: url(whitebone.jpg);
+  }
+
+
+.someofourteam {
+  float: right;
+  padding-right: 600px;
+}
+
+.jquery {
+  float: left;
+  padding-left: 200px;
+}
+
+.bootstrap {
+  float: right;
+  padding-right: 450px;
+}
+
+.fontawesome {
+  float: right;
+  padding-right: 200px;
+}
+
+.ninegag {
+  float: left;
+  padding-left: 200px;
+}
+
+.wpengine {
+  float: right;
+  padding-right: 450px;
+}
+
+.clickbooth {
+  float: right;
+  padding-right: 150px;
+}
+
+ul li {
+color: black;
+font-size: 24px;
+list-style-type: square;
+}
+
+aside.industriesone {
+float: left;
+margin-left: 200px;
+}
+
+aside.industriestwo {
+float: right;
+margin-right: 100px
+}
+
+
+#advertising {
+  color: red;
+}
+#gaming {
+  color: red;
+}
+#softwaredownloads {
+  color: red;
+}
+#hosting {
+  color: red;
+}
+#video {
+  color: red;
+}
+#opensource {
+  color: red;
+}
+
+
+
+footer {
+    background-color: #CC660A;
+    height: 150px;
+    display: block;
+    text-decoration: none;
+  }
+
+footer ul li {
+  float: right;
+  text-decoration: none;
+  list-style-type: none;
+  font-size: 17px;
+  color: #FFF;
+
+}
+
+footer .hotjarimage {
+    float: left;
+    margin: 20px;
+
+  }
+
+  .newsletter {
+      float: right;
+    }
+
+
+    /*Media queries always at the bottom*/
+    @media screen and (min-width:1200px){
+
+        .hamburger{
+          display: none;
+        }
+    	}
+
+    @media screen and (max-width:1200px){
+      .desktopnav{
+        display: none;
+      }
+    }
+    /*desktopnav*/
+    /*mobilediv*/
+
+
+
+/** {
+  background-color: black;
+  color: green;
+  outline: 1px solid red;
+}*/

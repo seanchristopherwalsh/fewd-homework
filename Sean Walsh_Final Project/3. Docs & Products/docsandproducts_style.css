@@ -1,0 +1,121 @@
+body {
+  font-size: 20px;
+}
+
+header {
+    background-color: #CC660A;
+    height: 120px;
+    margin-top: -20px;
+    display: block;
+    text-decoration: none;
+  }
+
+.logo {
+  float: left;
+}
+
+  header nav ul li {
+    list-style-type: none;
+    display: inline-block;
+    float: right;
+    font-size: 30px;
+    background-size: cover;
+    text-decoration: none;
+    padding: 28px;
+  }
+
+  header ul li a {
+    text-decoration: none;
+    color: #FFC107;
+  }
+
+  a:hover {
+    color: blue;
+}
+
+  body {
+    background-image: url(whitebone.jpg);
+  }
+
+.productlist {
+  float: right;
+
+  list-style-type: none;
+  margin-right: 200px;
+  margin-left: 300px;
+
+}
+
+body {
+  background-image: url(whitebone.jpg);
+}
+
+
+#pullzone {
+  color: red;
+}
+#pushzone {
+  color: red;
+}
+#ssl {
+  color: red;
+}
+#edgerules {
+  color: red;
+}
+#s3 {
+  color: red;
+}
+#realtimereporting {
+  color: red;
+}
+
+.newsletter {
+    float: right;
+  }
+
+  footer {
+      background-color: #CC660A;
+      height: 150px;
+      display: block;
+      text-decoration: none;
+    }
+
+footer ul li {
+  float: right;
+  text-decoration: none;
+  list-style-type: none;
+  font-size: 17px;
+  color: #FFF;
+
+}
+
+footer .hotjarimage {
+    float: left;
+    margin: 20px;
+
+  }
+
+
+  /*Media queries always at the bottom*/
+  @media screen and (min-width:1200px){
+
+      .hamburger{
+        display: none;
+      }
+  	}
+
+  @media screen and (max-width:1200px){
+    .desktopnav{
+      display: none;
+    }
+  }
+  /*desktopnav*/
+  /*mobilediv*/
+
+
+  /**{
+  background-color: black;
+  color: green;
+  outline: 1px solid red;
+}*/
